@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Hello
-=======
 
 # Capstone CH2-PS569
 
@@ -16,5 +13,3 @@ https://docs.gradle.org/current/userguide/compatibility.html
 4. Connect your phone to the project.
 5. Run the application and enjoy our fruit detecting app.
 
-
->>>>>>> 9da015e85a82f97cadb10454cae97a5b5ee8aec2
